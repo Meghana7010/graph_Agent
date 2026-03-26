@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import GraphView from './Components/GraphView'
 import ChatPanel from './Components/ChatPanel'
-import TopBar from './components/TopBar'
+import TopBar from './Components/TopBar'
 import LegendPanel from './Components/LegendPanel'
 import axios from 'axios'
 import './App.css'
